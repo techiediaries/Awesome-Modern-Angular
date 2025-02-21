@@ -1,2 +1,2 @@
-# Awesome-Modern-Angular
-Awesome Modern Angular 19+ Resources
+# Awesome Modern Angular 19+ Resources
+
